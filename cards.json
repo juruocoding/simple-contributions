@@ -1,0 +1,21 @@
+{
+    "cards": [
+      {
+        "name": "Your Name",
+        "profession": "Your Profession",
+        "quote": "\"Your favourite quote\" - Said by You",
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "email": "mailto:youremail@gmail.com"
+      },
+      {
+        "name": "Amruth L P",
+        "profession": "Full-Stack Developer",
+        "quote": "\"It's not a bug, it's a feature.\" - Anonymous",
+        "github": "https://github.com/AmruthLP12",
+        "linkedin": "https://linkedin.com/in/amruthlp",
+        "email": "mailto:amruthlp12@gmail.com"
+      }
+    ]
+  }
+  
