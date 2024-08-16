@@ -12,9 +12,9 @@ Hey there! 👋 Welcome to the Simple Contribution repo. This project is designe
 
 1. **Fork** the repository by clicking the "Fork" button at the top of this page.
 2. Clone your forked repository:
-   ```bash
+```bash
    git clone https://github.com/your-username/simple-contributions.git
-    ```
+```
 
 3. Navigate into the project directory:
 
